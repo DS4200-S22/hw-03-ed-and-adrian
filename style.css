@@ -32,5 +32,32 @@ p {
     padding: 1rem;
     text-align: center;
     border: 12px solid black;
-    
+}
+
+svg {
+    width: 200px;
+    height: 200px;
+}
+
+rect {
+    width: 150px;
+    height: 150px;
+    fill: #f33;
+}
+
+rect:hover {
+    fill: #000;
+}
+
+circle {
+    fill: #a245;
+    width: 100;
+}
+
+circle:hover {
+    fill: greenyellow
+}
+
+#shapes {
+    margin-top: 16px;
 }
