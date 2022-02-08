@@ -6,6 +6,10 @@ h1 {
     text-align: center;
 }
 
+h3 {
+    text-align: center;
+}
+
 img {
     width: 500px;
 }
@@ -61,3 +65,16 @@ circle:hover {
 #shapes {
     margin-top: 16px;
 }
+
+.acknowledgements{
+    text-align: center;
+}
+
+.acknowledgements ul{
+    display: inline-block;
+    text-align: left;
+}
+
+/* .acknowledgements ul li {
+    display: inline;
+} */
